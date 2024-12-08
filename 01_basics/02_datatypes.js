@@ -23,3 +23,14 @@ let isLogged =false
 // Non-Primitive datatypes
 
 //object
+//Array
+const heros=["ironman","hulk","thor"]
+
+let myObj={
+    name:"Ruttik",
+    age:24,
+}
+
+const  myFunction = function(){
+ console.log("Hello World");
+}
